@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to your new project.
+Welcome to [An Easy Way to Use SAP CAP to Call a REST API](https://community.sap.com/t5/technology-blog-posts-by-members/an-easy-way-to-use-sap-cap-to-call-a-rest-api/ba-p/14141531).
 
 It contains these folders and files, following our recommended project layout:
 
